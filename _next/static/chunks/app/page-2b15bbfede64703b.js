@@ -83,7 +83,7 @@
                                             children: [(0, s.jsx)("span", {
                                                 className: "text-3xl sm:text-5xl font-Emilio font-medium text-primary",
                                                 children: "V"
-                                            }), " IGNAN has been a forerunner in delivering quality education. Consistently ranked among the top educational institutes in the country, the VIT group of institutions have had a proud tradition of pursuing knowledge and excellence. In keeping with this tradition, the leadership at VIGNAN resonates a dynamic blend of academic initiative and industry partnership with a vision of creating one of the finest academic destinations in the world."]
+                                            }), " IGNAN has been a forerunner in delivering quality education. Consistently ranked among the top educational institutes in the country, the VIGNAN group of institutions have had a proud tradition of pursuing knowledge and excellence. In keeping with this tradition, the leadership at VIGNAN resonates a dynamic blend of academic initiative and industry partnership with a vision of creating one of the finest academic destinations in the world."]
                                         })
                                     })]
                                 }), (0, s.jsxs)("div", {
