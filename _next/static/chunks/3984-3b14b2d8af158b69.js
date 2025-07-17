@@ -1065,7 +1065,7 @@
                                                     className: "font-[400] text-[20px] pt-[40px] space-y-[15px]",
                                                     children: [(0, l.jsx)("li", {
                                                         className: "font-bold underline decoration-black underline-offset-[2px]",
-                                                        children: "Life @ VIT-AP"
+                                                        children: "Life @ VIGNAN"
                                                     }), (0, l.jsx)("li", {
                                                         className: "custom-list-item w-fit",
                                                         children: (0, l.jsx)("a", {
@@ -2186,7 +2186,7 @@
                                     children: [(0, l.jsx)("h1", {
                                         className: "cursor-pointer",
                                         onClick: () => Ac("life"),
-                                        children: "Life@VIT-AP"
+                                        children: "Life@VIGNAN"
                                     }), "life" === At && (0, l.jsxs)("ul", {
                                         className: "relative left-6 list-disc",
                                         children: [(0, l.jsx)("li", {

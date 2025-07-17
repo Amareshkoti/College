@@ -507,7 +507,7 @@
                         content: n || "Apply Knowledge, Improve Life!"
                     }), (0, r.jsx)("meta", {
                         name: "keywords",
-                        content: a || "VIGNAN, VIT-AP,vitap,vit vellore,vit,vit amaravathi,amaravathi,vijayawada,guntur,engineering college,computer science,mechanical,electronic,apeapcet,ap eamcet,eamcet,viteee,vit ap viteee"
+                        content: a || "VIGNAN, VIGNAN,vitap,vit vellore,vit,vit amaravathi,amaravathi,vijayawada,guntur,engineering college,computer science,mechanical,electronic,apeapcet,ap eamcet,eamcet,viteee,vit ap viteee"
                     })]
                 })
             }

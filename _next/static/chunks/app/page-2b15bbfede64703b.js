@@ -65,13 +65,13 @@
                                     className: "lg:w-1/2  sm:w-full sm:text-center md:text-left sm:flex-col sm:justify-center md:justify-normal ",
                                     children: [(0, s.jsx)("h1", {
                                         className: "font-Emilio text-left text-[24px] sm:text-[36px] lg:text-[48px] text-primary font-bold mb-[9px]",
-                                        children: "About VIT-AP"
+                                        children: "About VIGNAN"
                                     }), (0, s.jsx)("div", {
                                         className: "w-full sm:h-[330px] md:h-[400px] lg:h-[350px] xl:h-[350px]  h-[240px] shadow-xl rounded-[3px]  mt-5",
                                         children: (0, s.jsx)("iframe", {
                                             className: "w-full h-full rounded-[3px] ",
                                             src: "https://www.youtube.com/embed/qRJBQ9nKQG4?si=XRAUCNvFD2yv_wOW",
-                                            title: "About VIT-AP ",
+                                            title: "About VIGNAN ",
                                             frameBorder: "1",
                                             allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-inpicture; web-share",
                                             allowFullScreen: !0
@@ -83,7 +83,7 @@
                                             children: [(0, s.jsx)("span", {
                                                 className: "text-3xl sm:text-5xl font-Emilio font-medium text-primary",
                                                 children: "V"
-                                            }), " IT has been a forerunner in delivering quality education. Consistently ranked among the top educational institutes in the country, the VIT group of institutions have had a proud tradition of pursuing knowledge and excellence. In keeping with this tradition, the leadership at VIT-AP resonates a dynamic blend of academic initiative and industry partnership with a vision of creating one of the finest academic destinations in the world."]
+                                            }), " IT has been a forerunner in delivering quality education. Consistently ranked among the top educational institutes in the country, the VIT group of institutions have had a proud tradition of pursuing knowledge and excellence. In keeping with this tradition, the leadership at VIGNAN resonates a dynamic blend of academic initiative and industry partnership with a vision of creating one of the finest academic destinations in the world."]
                                         })
                                     })]
                                 }), (0, s.jsxs)("div", {
@@ -260,7 +260,7 @@
                                 children: "Placement Highlight"
                             }), (0, s.jsx)("p", {
                                 className: "text-[14px] text-white font-normal font-Montserrat text-justify",
-                                children: "At VIT-AP the entire teaching-learning process is concentrated around six schools. VIGNAN proudly showcases its exceptional placements achievements, reflecting a commitment to nurturing industry-ready professionals. Boasting a stellar track record, our students have secured coveted positions in leading companies."
+                                children: "At VIGNAN the entire teaching-learning process is concentrated around six schools. VIGNAN proudly showcases its exceptional placements achievements, reflecting a commitment to nurturing industry-ready professionals. Boasting a stellar track record, our students have secured coveted positions in leading companies."
                             })]
                         }), (0, s.jsx)("div", {
                             className: "w-full max-h-full relative z-20 -mt-[50px]",
@@ -606,7 +606,7 @@
                                     children: "Explore our Campus"
                                 }), (0, s.jsx)("h1", {
                                     className: "text-[20px] sm:text-[28px] font-Emilio font-semibold text-[#000]",
-                                    children: "Life @ VIT-AP"
+                                    children: "Life @ VIGNAN"
                                 }), (0, s.jsx)("p", {
                                     className: "",
                                     children: "Experience the vibrant heart of our campus life at Vitap\xa0University."
@@ -631,7 +631,7 @@
                                 className: "basis-[50%] flex items-start justify-center",
                                 children: (0, s.jsx)("p", {
                                     className: "text-[24px] font-Emilio font-semibold text-[#650010]",
-                                    children: "Life @ VIT-AP"
+                                    children: "Life @ VIGNAN"
                                 })
                             }), (0, s.jsxs)("div", {
                                 className: "basis-[50%] flex flex-col items-start justify-end",
@@ -672,7 +672,7 @@
                             }), (0, s.jsx)("div", {
                                 className: "basis-[30%] bg-[#650010] w-full h-full text-white font-Emilio font-normal text-[14px] p-[15px] flex flex-col justify-end items-start",
                                 children: (0, s.jsx)("p", {
-                                    children: "Explore the vibrant Life at VIT-AP"
+                                    children: "Explore the vibrant Life at VIGNAN"
                                 })
                             })]
                         })]
@@ -761,7 +761,7 @@
             }, {
                 id: 3,
                 imgUrl: "/assets/images/newsPhotos/nationn.avif",
-                title: "VIT-AP Highest Placement Package",
+                title: "VIGNAN Highest Placement Package",
                 content: "Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur."
             }];
             var x = l(83464),
@@ -1390,7 +1390,7 @@
                                 })]
                             }), (0, s.jsx)("p", {
                                 className: "text-primary font-[500] text-[16px] md:text-[18px] max-w-[700px] mt-4  md:mt-0",
-                                children: "Discover VIT-AP's vibrant scene: upcoming cultural events, local festivals, educational workshops, sports competitions, and community gatherings. A hub of excitement, diversity, and learning for all ages"
+                                children: "Discover VIGNAN's vibrant scene: upcoming cultural events, local festivals, educational workshops, sports competitions, and community gatherings. A hub of excitement, diversity, and learning for all ages"
                             })]
                         }), (0, s.jsxs)("div", {
                             className: " justify-evenly mt-[-40px] md:mt-8 w-full md:space-x-12  hidden md:flex",
@@ -1613,7 +1613,7 @@
                                 children: "Schools"
                             }), (0, s.jsx)("h1", {
                                 className: "font-Montserrat text-[18px] text-white w-full md:text-left text-center hidden md:block",
-                                children: "At VIT-AP the entire teaching-learning process is concentrated around seven schools for preparing students to make meaningful contributions to society as engaged citizens and leaders in a complex world."
+                                children: "At VIGNAN the entire teaching-learning process is concentrated around seven schools for preparing students to make meaningful contributions to society as engaged citizens and leaders in a complex world."
                             }), (0, s.jsxs)("div", {
                                 className: "lg:flex lg:flex-col ",
                                 children: [(0, s.jsx)("div", {
@@ -1723,7 +1723,7 @@
                                     children: "Schools"
                                 }), (0, s.jsx)("h1", {
                                     className: "text-center mt-4 font-Emilio text-[14px] text-white px-4",
-                                    children: "At VIT-AP the entire teaching-learning process is concentrated around seven schools."
+                                    children: "At VIGNAN the entire teaching-learning process is concentrated around seven schools."
                                 })]
                             }), (0, s.jsx)("div", {
                                 className: "mt-10",
@@ -2487,15 +2487,15 @@
                 }, {
                     id: 4,
                     imgSrc: u,
-                    title: "Esha Singh: Paris 2024 Olympic Star at VIT-AP on Womens Day"
+                    title: "Esha Singh: Paris 2024 Olympic Star at VIGNAN on Womens Day"
                 }, {
                     id: 5,
                     imgSrc: g,
-                    title: "National cybersecurity challenge at VIT-AP with AICTE, Lenovo support"
+                    title: "National cybersecurity challenge at VIGNAN with AICTE, Lenovo support"
                 }, {
                     id: 6,
                     imgSrc: b,
-                    title: "VIT-AP Rotaract Club Shines Bright with 7 Prestigious Honors"
+                    title: "VIGNAN Rotaract Club Shines Bright with 7 Prestigious Honors"
                 }, {
                     id: 7,
                     imgSrc: h,
@@ -2587,7 +2587,7 @@
                                     })
                                 }), (0, s.jsx)("p", {
                                     className: "font-Montserrat text-[8px] md:text-[14px] mt-2",
-                                    children: "Hon’ble Andhra Pradesh CM Chandra Babu  Naidu Garu Inspires at VIT-AP During V-Launchpad and Block Inaugurations"
+                                    children: "Hon’ble Andhra Pradesh CM Chandra Babu  Naidu Garu Inspires at VIGNAN During V-Launchpad and Block Inaugurations"
                                 })]
                             })
                         }), (0, s.jsx)("div", {
@@ -2681,7 +2681,7 @@
                                         imgSrc: N[6].imgSrc
                                     }), (0, s.jsx)("h1", {
                                         className: "rotate-90 mx-0 h-[60px] relative top-[80px]  font-Emilio text-[48px] text-primary font-semibold mr-[-80px]",
-                                        children: "VIT-AP"
+                                        children: "VIGNAN"
                                     })]
                                 })]
                             }), (0, s.jsxs)("div", {

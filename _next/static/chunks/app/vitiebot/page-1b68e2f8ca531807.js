@@ -77,7 +77,7 @@
                 }, [e, x]), (0, n.useEffect)(() => {
                     t([{
                         from: "bot",
-                        text: "\uD83D\uDC4B Hey there! I’m your VIT-AP Assistant. Ask me anything about admissions, courses, or campus life!"
+                        text: "\uD83D\uDC4B Hey there! I’m your VIGNAN Assistant. Ask me anything about admissions, courses, or campus life!"
                     }])
                 }, []), (0, a.jsxs)("div", {
                     children: [(0, a.jsx)(u.default, {}), (0, a.jsx)(d.default, {}), (0, a.jsx)(i.Z, {
@@ -93,7 +93,7 @@
                             children: [(0, a.jsxs)("div", {
                                 className: "bg-[#650010] text-white py-5 px-6 flex items-center justify-between text-xl font-semibold tracking-wide",
                                 children: [(0, a.jsx)("span", {
-                                    children: "\uD83C\uDF93 VIT-AP Assistant"
+                                    children: "\uD83C\uDF93 VIGNAN Assistant"
                                 }), (0, a.jsx)("span", {
                                     className: "text-sm font-light opacity-70 hidden sm:inline",
                                     children: "Ask about admissions, campus, or academics"

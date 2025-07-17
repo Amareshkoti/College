@@ -152,7 +152,7 @@
                 }, {
                     id: 2,
                     title: "Public Notice: University Act",
-                    link: "https://universitywebsitbucket.s3.ap-south-1.amazonaws.com/PDFs/VIT-AP-University-Act.pdf"
+                    link: "https://universitywebsitbucket.s3.ap-south-1.amazonaws.com/PDFs/VIGNAN-University-Act.pdf"
                 }, {
                     id: 3,
                     title: "Forms",
@@ -211,7 +211,7 @@
                         className: " w-full lg:w-1/3 hidden lg:block",
                         children: [(0, s.jsx)("iframe", {
                             className: "w-full h-[202px]  hover:shadow-xl transition-shadow duration-200",
-                            src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3825.6106982247265!2d80.49881150582188!3d16.495238672470556!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a35f27d40f21c55%3A0x1490eacd54859850!2sVIT-AP%20University!5e0!3m2!1sen!2sin!4v1696503206483!5m2!1sen!2sin",
+                            src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3825.6106982247265!2d80.49881150582188!3d16.495238672470556!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a35f27d40f21c55%3A0x1490eacd54859850!2sVIGNAN%20University!5e0!3m2!1sen!2sin!4v1696503206483!5m2!1sen!2sin",
                             allowFullScreen: "",
                             loading: "lazy",
                             referrerPolicy: "no-referrer-when-downgrade"
@@ -230,9 +230,9 @@
                             children: [(0, s.jsx)("h1", {
                                 className: "underline",
                                 children: (0, s.jsx)("a", {
-                                    href: "https://www.google.com/maps/place/VIT-AP+University/@16.497055,80.499197,15z/data=!4m6!3m5!1s0x3a35f27d40f21c55:0x1490eacd54859850!8m2!3d16.4970554!4d80.4991965!16s%2Fg%2F11gnsnjyhf?hl=en&entry=ttu",
+                                    href: "https://www.google.com/maps/place/VIGNAN+University/@16.497055,80.499197,15z/data=!4m6!3m5!1s0x3a35f27d40f21c55:0x1490eacd54859850!8m2!3d16.4970554!4d80.4991965!16s%2Fg%2F11gnsnjyhf?hl=en&entry=ttu",
                                     target: "_blank",
-                                    children: "HOW TO REACH VIT-AP"
+                                    children: "HOW TO REACH VIGNAN"
                                 })
                             }), (0, s.jsx)(d.HV3, {
                                 size: 25,
@@ -254,15 +254,15 @@
                                 children: [(0, s.jsx)("a", {
                                     href: "/",
                                     className: "hover:font-bold transition-all duration-200 flex-none",
-                                    children: "VIT-AP Home"
+                                    children: "VIGNAN Home"
                                 }), (0, s.jsx)("a", {
-                                    href: "https://www.google.com/maps/place/VIT-AP+University/@16.497055,80.499197,15z/data=!4m6!3m5!1s0x3a35f27d40f21c55:0x1490eacd54859850!8m2!3d16.4970554!4d80.4991965!16s%2Fg%2F11gnsnjyhf?hl=en&entry=ttu",
+                                    href: "https://www.google.com/maps/place/VIGNAN+University/@16.497055,80.499197,15z/data=!4m6!3m5!1s0x3a35f27d40f21c55:0x1490eacd54859850!8m2!3d16.4970554!4d80.4991965!16s%2Fg%2F11gnsnjyhf?hl=en&entry=ttu",
                                     className: "hover:font-bold transition-all duration-200 flex-none",
                                     children: "Maps & Directions"
                                 }), (0, s.jsx)("a", {
                                     href: "/",
                                     className: "hover:font-bold transition-all duration-200 flex-none",
-                                    children: "Search VIT-AP"
+                                    children: "Search VIGNAN"
                                 }), (0, s.jsx)("a", {
                                     href: "/contact-us",
                                     className: "hover:font-bold transition-all duration-200 flex-none",
@@ -303,7 +303,7 @@
                             className: "flex items-center space-x-1 left-0 relative",
                             children: (0, s.jsx)("h1", {
                                 className: "text-[18px] text-white font-Emilio",
-                                children: "Copyright \xa9 VIT-AP 2024. All rights reserved"
+                                children: "Copyright \xa9 VIGNAN 2024. All rights reserved"
                             })
                         }), (0, s.jsx)("div", {
                             children: (0, s.jsx)("h1", {
@@ -458,7 +458,7 @@
                     className: "w-full h-[61px] bg-primary lg:hidden flex flex-col justify-center items-center",
                     children: [(0, s.jsx)("h1", {
                         className: "text-[3.8vw] font-Emilio font-[500] text-white",
-                        children: "Copyright \xa9 VIT-AP 2024. All rights reserved"
+                        children: "Copyright \xa9 VIGNAN 2024. All rights reserved"
                     }), (0, s.jsx)("h1", {
                         className: "text-[3.8vw] font-Emilio font-[500] text-white",
                         children: "Crafted With Passion At VIGNAN"

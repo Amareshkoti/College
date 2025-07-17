@@ -249,19 +249,19 @@
                 }],
                 s = [{
                     id: 1,
-                    info: " The airfield located at Gannavaram served as an army base during the World War II, after which it was converted into a civilian airport. Air Deccan introduced a daily service between Hyderabad and Vijayawada in September 2003. It’s is 42 Km from VIT-AP Campus."
+                    info: " The airfield located at Gannavaram served as an army base during the World War II, after which it was converted into a civilian airport. Air Deccan introduced a daily service between Hyderabad and Vijayawada in September 2003. It’s is 42 Km from VIGNAN Campus."
                 }, {
                     id: 2,
-                    info: " Pandit Nehru bus station (PNBS) is a bus station in Vijayawada and owned by APSRTC. This is one of the major bus stations in Andhra Pradesh. It is one of the largest bus stations in Asia. It’s 19 Km from VIT-AP Campus"
+                    info: " Pandit Nehru bus station (PNBS) is a bus station in Vijayawada and owned by APSRTC. This is one of the major bus stations in Andhra Pradesh. It is one of the largest bus stations in Asia. It’s 19 Km from VIGNAN Campus"
                 }, {
                     id: 3,
-                    info: " NTR bus station is a bus station in Guntur and owned by APSRTC. The bus station serves both the city and district services in Andhra Pradesh as well buses from neighboring states of Karnataka, Tamil Nadu and Telangana. It’s 30 Km from VIT-AP Campus"
+                    info: " NTR bus station is a bus station in Guntur and owned by APSRTC. The bus station serves both the city and district services in Andhra Pradesh as well buses from neighboring states of Karnataka, Tamil Nadu and Telangana. It’s 30 Km from VIGNAN Campus"
                 }, {
                     id: 4,
-                    info: "Vijayawada Junction railway station (station code: - BZA) is an Indian Railways station in Vijayawada of Andhra Pradesh, categorized as a Non-Suburban Grade-2 (NSG-2) station in Vijayawada railway division. Situated at the junction of Howrah–Chennai and New Delhi–Chennai main lines, It’s 19 Km from VIT-AP Campus."
+                    info: "Vijayawada Junction railway station (station code: - BZA) is an Indian Railways station in Vijayawada of Andhra Pradesh, categorized as a Non-Suburban Grade-2 (NSG-2) station in Vijayawada railway division. Situated at the junction of Howrah–Chennai and New Delhi–Chennai main lines, It’s 19 Km from VIGNAN Campus."
                 }, {
                     id: 5,
-                    info: "Guntur railway station (station code: GNT) is an Indian Railways station in Guntur of Andhra Pradesh. It is situated on the Krishna Canal–Guntur section of Guntur railway division in the South central railway zone. It’s 32 Km from VIT-AP Campus."
+                    info: "Guntur railway station (station code: GNT) is an Indian Railways station in Guntur of Andhra Pradesh. It is situated on the Krishna Canal–Guntur section of Guntur railway division in the South central railway zone. It’s 32 Km from VIGNAN Campus."
                 }],
                 o = [{
                     id: 1,
@@ -902,7 +902,7 @@
                     id: 2,
                     name: "Dr. S. V. Kota Reddy",
                     designation: "Vice Chancellor",
-                    location: "VIT-AP",
+                    location: "VIGNAN",
                     position: "Member"
                 }, {
                     id: 3,
@@ -926,12 +926,12 @@
                     id: 6,
                     name: "Dr. Jagadish Chandra Mudiganti",
                     designation: "Registrar",
-                    location: "VIT-AP",
+                    location: "VIGNAN",
                     position: "Member Secretary"
                 }],
                 v = [{
                     id: 1,
-                    name: "Dr. S. V. Kota Reddy, Vice Chancellor, VIT-AP",
+                    name: "Dr. S. V. Kota Reddy, Vice Chancellor, VIGNAN",
                     position: "Chairperson"
                 }, {
                     id: 2,
@@ -951,24 +951,24 @@
                     position: "Member"
                 }, {
                     id: 6,
-                    name: "Dr. Deepasikha Mishra, Faculty, SCOPE, VIT-AP",
+                    name: "Dr. Deepasikha Mishra, Faculty, SCOPE, VIGNAN",
                     position: "Member"
                 }, {
                     id: 7,
-                    name: "Dr. D. Venkata Lakshmi, Faculty, SCOPE, VIT-AP",
+                    name: "Dr. D. Venkata Lakshmi, Faculty, SCOPE, VIGNAN",
                     position: "Member"
                 }, {
                     id: 8,
-                    name: "Dr. Pragya Sengupta, Faculty, VISH, VIT-AP",
+                    name: "Dr. Pragya Sengupta, Faculty, VISH, VIGNAN",
                     position: "Member"
                 }, {
                     id: 9,
-                    name: "Dr. Jagadish Chandra Mudiganti, Registrar, VIT-AP",
+                    name: "Dr. Jagadish Chandra Mudiganti, Registrar, VIGNAN",
                     position: "Member Secretary"
                 }],
                 M = [{
                     id: 1,
-                    name: "Dr. S. V. Kota Reddy, Vice Chancellor, VIT-AP",
+                    name: "Dr. S. V. Kota Reddy, Vice Chancellor, VIGNAN",
                     position: "Chairperson"
                 }, {
                     id: 2,
@@ -984,7 +984,7 @@
                     position: "Member"
                 }, {
                     id: 5,
-                    name: "Dr. Jagadish Chandra Mudiganti, Registrar, VIT-AP",
+                    name: "Dr. Jagadish Chandra Mudiganti, Registrar, VIGNAN",
                     position: "Member"
                 }, {
                     id: 6,
@@ -1001,7 +1001,7 @@
                 }],
                 y = [{
                     id: 1,
-                    name: "Dr. S. V. Kota Reddy, Vice Chancellor, VIT-AP",
+                    name: "Dr. S. V. Kota Reddy, Vice Chancellor, VIGNAN",
                     position: "Chairperson"
                 }, {
                     id: 2,
@@ -1017,20 +1017,20 @@
                     position: "Member"
                 }, {
                     id: 5,
-                    name: "Dr. N. Madhusudhana Rao, Dean, Academics, VIT-AP",
+                    name: "Dr. N. Madhusudhana Rao, Dean, Academics, VIGNAN",
                     position: "Member"
                 }, {
                     id: 6,
-                    name: "Dr. Dilip Kumar Mohanty, Dean, SMEC, VIT-AP",
+                    name: "Dr. Dilip Kumar Mohanty, Dean, SMEC, VIGNAN",
                     position: "Member"
                 }, {
                     id: 7,
-                    name: "Dr. Jagadish Chandra Mudiganti, Registrar, VIT-AP",
+                    name: "Dr. Jagadish Chandra Mudiganti, Registrar, VIGNAN",
                     position: "Member Secretary"
                 }],
                 _ = [{
                     id: 1,
-                    name: "Dr. S. V. Kota Reddy, Vice Chancellor, VIT-AP",
+                    name: "Dr. S. V. Kota Reddy, Vice Chancellor, VIGNAN",
                     position: "Chairperson"
                 }, {
                     id: 2,
@@ -1066,20 +1066,20 @@
                     position: "Member"
                 }, {
                     id: 10,
-                    name: "Dr. Ravindra Dhuli, Professor, VIT-AP ",
+                    name: "Dr. Ravindra Dhuli, Professor, VIGNAN ",
                     position: "Member"
                 }, {
                     id: 11,
-                    name: "Dr. Madhusudhana Rao N, Professor, VIT-AP ",
+                    name: "Dr. Madhusudhana Rao N, Professor, VIGNAN ",
                     position: "Member"
                 }, {
                     id: 12,
-                    name: "Dr. M. Jagadish Chandra, Registrar, VIT-AP",
+                    name: "Dr. M. Jagadish Chandra, Registrar, VIGNAN",
                     position: "Member Secretary"
                 }],
                 S = [{
                     id: 1,
-                    name: "Dr. S. V. Kota Reddy, Vice Chancellor, VIT-AP",
+                    name: "Dr. S. V. Kota Reddy, Vice Chancellor, VIGNAN",
                     position: "Chairperson"
                 }, {
                     id: 2,
@@ -1119,7 +1119,7 @@
                     position: "Member"
                 }, {
                     id: 11,
-                    name: "Dr. Venkatrajam Marka, Controller of Examinations, VIT-AP",
+                    name: "Dr. Venkatrajam Marka, Controller of Examinations, VIGNAN",
                     position: "Member"
                 }, {
                     id: 12,
@@ -1127,7 +1127,7 @@
                     position: "Member"
                 }, {
                     id: 13,
-                    name: "Dr. Umakanta Nanda, Chairperson BoS, SENSE, VIT-AP",
+                    name: "Dr. Umakanta Nanda, Chairperson BoS, SENSE, VIGNAN",
                     position: "Member"
                 }, {
                     id: 14,
@@ -1135,27 +1135,27 @@
                     position: "Member"
                 }, {
                     id: 15,
-                    name: "Dr. Arunkumar Sivakumar, Chairperson BoS, VSB, VIT-AP",
+                    name: "Dr. Arunkumar Sivakumar, Chairperson BoS, VSB, VIGNAN",
                     position: "Member"
                 }, {
                     id: 16,
-                    name: "Dr. Benarji Chakka, Chairperson BoS, VSL, VIT-AP",
+                    name: "Dr. Benarji Chakka, Chairperson BoS, VSL, VIGNAN",
                     position: "Member"
                 }, {
                     id: 17,
-                    name: "Dr. S. Srinivas, Chairperson BoS, SAS, VIT-AP",
+                    name: "Dr. S. Srinivas, Chairperson BoS, SAS, VIGNAN",
                     position: "Member"
                 }, {
                     id: 18,
-                    name: "Dr. Priyanka Ghosh, Chairperson BoS, VISH, VIT-AP",
+                    name: "Dr. Priyanka Ghosh, Chairperson BoS, VISH, VIGNAN",
                     position: "Member"
                 }, {
                     id: 19,
-                    name: "Dr. Nagarjuna Neella, HoD Dept. of Physics, VIT-AP",
+                    name: "Dr. Nagarjuna Neella, HoD Dept. of Physics, VIGNAN",
                     position: "Member"
                 }, {
                     id: 20,
-                    name: "Dr. Illa Ramakanth, HoD Dept. of Chemistry, VIT-AP",
+                    name: "Dr. Illa Ramakanth, HoD Dept. of Chemistry, VIGNAN",
                     position: "Member"
                 }, {
                     id: 21,
@@ -1163,7 +1163,7 @@
                     position: "Member"
                 }, {
                     id: 22,
-                    name: "Dr. Jagadish Chandra Mudiganti, Registrar, VIT-AP",
+                    name: "Dr. Jagadish Chandra Mudiganti, Registrar, VIGNAN",
                     position: "Member Secretary"
                 }],
                 V = [{
@@ -1949,17 +1949,17 @@
                 }],
                 D = [{
                     id: 1,
-                    title: "VIT-AP School of Computer Science & Engineering",
+                    title: "VIGNAN School of Computer Science & Engineering",
                     imgUrl: "/AVIF_Images/allschools/school1.avif",
                     link: "scope"
                 }, {
                     id: 2,
-                    title: "VIT-AP School of Electronics Engineering ( SENSE )",
+                    title: "VIGNAN School of Electronics Engineering ( SENSE )",
                     imgUrl: "/AVIF_Images/allschools/school7.avif",
                     link: "sense"
                 }, {
                     id: 3,
-                    title: "VIT-AP School of Mechanical Engineering",
+                    title: "VIGNAN School of Mechanical Engineering",
                     imgUrl: "/AVIF_Images/allschools/school6.avif",
                     link: "smec"
                 }, {
@@ -1969,17 +1969,17 @@
                     link: "sas"
                 }, {
                     id: 5,
-                    title: "VIT-AP School Of Business (VSB)",
+                    title: "VIGNAN School Of Business (VSB)",
                     imgUrl: "/AVIF_Images/allschools/school4.avif",
                     link: "vsb"
                 }, {
                     id: 6,
-                    title: "VIT-AP School Of Law ( VSL )",
+                    title: "VIGNAN School Of Law ( VSL )",
                     imgUrl: "/AVIF_Images/allschools/school3.avif",
                     link: "vsl"
                 }, {
                     id: 7,
-                    title: "VIT-AP School of Social Sciences and Humanities (VISH) ",
+                    title: "VIGNAN School of Social Sciences and Humanities (VISH) ",
                     imgUrl: "/AVIF_Images/allschools/school2.avif",
                     link: "vish"
                 }],
