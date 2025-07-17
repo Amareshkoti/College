@@ -326,7 +326,7 @@
                                         size: 30
                                     })
                                 }), (0, s.jsx)("a", {
-                                    href: "https://www.linkedin.com/school/vitap-university/",
+                                    href: "https://www.linkedin.com/company/viitvizag/ ",
                                     target: "_blank",
                                     children: (0, s.jsx)(a._iD, {
                                         className: "hover:scale-125 transition-all duration-300 hover:shadow-2xl cursor-pointer",
@@ -334,7 +334,7 @@
                                         size: 30
                                     })
                                 }), (0, s.jsx)("a", {
-                                    href: "https://www.facebook.com/vitap.university/",
+                                    href: "https://www.facebook.com/VignansInstituteofInformationTechnologyVIIT/",
                                     target: "_blank",
                                     children: (0, s.jsx)(n.xSx, {
                                         className: "hover:scale-125 transition-all duration-300 hover:shadow-2xl cursor-pointer",
@@ -342,7 +342,7 @@
                                         size: 30
                                     })
                                 }), (0, s.jsx)("a", {
-                                    href: "https://www.youtube.com/@VITAP",
+                                    href: "https://www.youtube.com/@VignanVizagStudio",
                                     target: "_blank",
                                     children: (0, s.jsx)(a.b1v, {
                                         className: "hover:scale-125 transition-all duration-300 hover:shadow-2xl cursor-pointer",
@@ -350,7 +350,7 @@
                                         size: 30
                                     })
                                 }), (0, s.jsx)("a", {
-                                    href: "https://twitter.com/VITAPuniversity",
+                                    href: "https://x.com/vignaniit",
                                     target: "_blank",
                                     children: (0, s.jsx)(r.LCd, {
                                         className: "hover:scale-125 transition-all duration-300 hover:shadow-2xl cursor-pointer",
