@@ -19,7 +19,7 @@
                         className: "px-10 space-y-4",
                         children: [(0, l.jsx)("h1", {
                             className: "flex font-Emilio text-[18px] sm:text-[28px] leading-7",
-                            children: "“ INDIA should lead the world. VIT should lead India ”"
+                            children: "“ The difference between dreamers and innovators is that a dreamer just dreams and does nothing to realize it, while an innovator charts his own path and breathes life into his ideas ”"
                         }), (0, l.jsx)("h1", {
                             className: "justify-end flex text-[3.5vw] sm:text-[20px]  font-Montserrat font-[290] leading-5",
                             children: "- Dr. G. Viswanathan, Founder & Chancellor, VIT"
