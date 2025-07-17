@@ -243,7 +243,7 @@
                                     className: "px-[40px] sm:px-[80px]",
                                     children: (0, s.jsx)("p", {
                                         className: "text-[12px] sm:text-[16px] font-Montserrat font-normal ",
-                                        children: "VIT-AP University proudly showcases its exceptional placements achievements, reflecting a commitment to nurturing industry-ready professionalg. Boasting a stellar track record, our students have secured coveted positions in leading companies. The testament to our rigorous academic curriculum and holistic development approach is evident in the remarkable success stories of our graduates"
+                                        children: "VIGNAN proudly showcases its exceptional placements achievements, reflecting a commitment to nurturing industry-ready professionalg. Boasting a stellar track record, our students have secured coveted positions in leading companies. The testament to our rigorous academic curriculum and holistic development approach is evident in the remarkable success stories of our graduates"
                                     })
                                 })
                             })]
@@ -260,7 +260,7 @@
                                 children: "Placement Highlight"
                             }), (0, s.jsx)("p", {
                                 className: "text-[14px] text-white font-normal font-Montserrat text-justify",
-                                children: "At VIT-AP the entire teaching-learning process is concentrated around six schools. VIT-AP University proudly showcases its exceptional placements achievements, reflecting a commitment to nurturing industry-ready professionals. Boasting a stellar track record, our students have secured coveted positions in leading companies."
+                                children: "At VIT-AP the entire teaching-learning process is concentrated around six schools. VIGNAN proudly showcases its exceptional placements achievements, reflecting a commitment to nurturing industry-ready professionals. Boasting a stellar track record, our students have secured coveted positions in leading companies."
                             })]
                         }), (0, s.jsx)("div", {
                             className: "w-full max-h-full relative z-20 -mt-[50px]",
@@ -342,7 +342,7 @@
                         className: "z-10 absolute flex lg:hidden  text-white max-w-[500px] md:max-w-[2000px] text-center flex-col justify-center items-center top-[20vh] sm:top-[29vh] lg:top-[60%] left-1/2 transform -translate-x-1/2 -translate-y-1/2",
                         children: [(0, s.jsxs)("h1", {
                             className: "text-[6.5vw] md:text-[4vw] lg:text-[1.8vw] font-semibold font-Emilio leading-tight",
-                            children: ["Welcome to ", (0, s.jsx)("br", {}), " VIT-AP University"]
+                            children: ["Welcome to ", (0, s.jsx)("br", {}), " VIGNAN"]
                         }), (0, s.jsxs)("h1", {
                             className: "text-[10px] font-Montserrat",
                             children: ["APPLY KNOWLEDGE, IMPROVE LIFE", (0, s.jsx)("sup", {
@@ -353,7 +353,7 @@
                         className: "z-10 absolute hidden  text-white w-[50vw] text-left lg:flex flex-col   top-[35vh]  left-[10vw] ",
                         children: [(0, s.jsxs)("h1", {
                             className: "text-[5vw] font-semibold font-Emilio leading-tight",
-                            children: ["Welcome to ", (0, s.jsx)("br", {}), " VIT-AP University"]
+                            children: ["Welcome to ", (0, s.jsx)("br", {}), " VIGNAN"]
                         }), (0, s.jsxs)("h1", {
                             className: "text-[16px] md:text-[18px] lg:text-[20px] font-Montserrat",
                             children: ["APPLY KNOWLEDGE, IMPROVE LIFE", (0, s.jsx)("sup", {
@@ -367,10 +367,10 @@
                         className: "z-10 absolute hidden  text-white w-[50vw] text-left lg:flex flex-col   top-[35vh]  left-[10vw] ",
                         children: [(0, s.jsxs)("h1", {
                             className: "text-[5vw] font-semibold font-Emilio leading-tight",
-                            children: ["CBN x ", (0, s.jsx)("br", {}), " VIT-AP University"]
+                            children: ["CBN x ", (0, s.jsx)("br", {}), " VIGNAN"]
                         }), (0, s.jsxs)("h1", {
                             className: "text-[16px] md:text-[18px] lg:text-[20px] font-Montserrat",
-                            children: ["V-LaunchPad 2025 @ VIT-AP University", (0, s.jsx)("sup", {
+                            children: ["V-LaunchPad 2025 @ VIGNAN", (0, s.jsx)("sup", {
                                 children: "\xae"
                             })]
                         })]
@@ -751,7 +751,7 @@
             let d = [{
                 id: 1,
                 imgUrl: "/assets/images/newsPhotos/aimusic.avif",
-                title: "First-ever AI musical concert held at VIT-AP University",
+                title: "First-ever AI musical concert held at VIGNAN",
                 content: "Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur."
             }, {
                 id: 2,
@@ -1783,7 +1783,7 @@
                                 children: "Placement Highlight"
                             }), (0, s.jsx)("p", {
                                 className: "text-[12px] md:text-[20px] font-Montserrat font-[400] text-[#000000cc] text-justify leading-[32px]",
-                                children: "VIT-AP University proudly showcases its exceptional placements achievements, reflecting a commitment to nurturing industry-ready professionals. Boasting a stellar track record, our students have secured coveted positions in leading companies. The testament to our rigorous academic curriculum and holistic development approach is evident in the remarkable success stories of our graduates."
+                                children: "VIGNAN proudly showcases its exceptional placements achievements, reflecting a commitment to nurturing industry-ready professionals. Boasting a stellar track record, our students have secured coveted positions in leading companies. The testament to our rigorous academic curriculum and holistic development approach is evident in the remarkable success stories of our graduates."
                             })]
                         }), (0, s.jsxs)("div", {
                             className: "flex-1 w-full h-full pr-[20px] sm:pr-[50px] lg:pr-[100px] z-10 gap-[20px] lg:gap-[40px] flex items-center justify-center",

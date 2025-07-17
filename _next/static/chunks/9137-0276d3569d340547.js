@@ -217,7 +217,7 @@
                             referrerPolicy: "no-referrer-when-downgrade"
                         }), (0, s.jsx)("h1", {
                             className: "text-[30px] font-Emilio font-medium text-primary mt-3",
-                            children: "VIT-AP University, Amaravathi"
+                            children: "VIGNAN, Amaravathi"
                         }), (0, s.jsxs)("div", {
                             className: "text-b;ack font-Montserrat font-[300] mt-3",
                             children: [(0, s.jsx)("h1", {
@@ -311,7 +311,7 @@
                                 children: (0, s.jsx)("a", {
                                     href: "/credits",
                                     className: "hover:scale-125 transition-all duration-300 hover:shadow-2xl cursor-pointer",
-                                    children: "Crafted with Passion at VIT-AP University by Website Team"
+                                    children: "Crafted with Passion at VIGNAN by Website Team"
                                 })
                             })
                         }), (0, s.jsx)("div", {
@@ -461,7 +461,7 @@
                         children: "Copyright \xa9 VIT-AP 2024. All rights reserved"
                     }), (0, s.jsx)("h1", {
                         className: "text-[3.8vw] font-Emilio font-[500] text-white",
-                        children: "Crafted With Passion At VIT-AP University"
+                        children: "Crafted With Passion At VIGNAN"
                     })]
                 })]
             })
