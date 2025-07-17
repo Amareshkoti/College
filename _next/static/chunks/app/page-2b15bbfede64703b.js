@@ -367,7 +367,7 @@
                         className: "z-10 absolute hidden  text-white w-[50vw] text-left lg:flex flex-col   top-[35vh]  left-[10vw] ",
                         children: [(0, s.jsxs)("h1", {
                             className: "text-[5vw] font-semibold font-Emilio leading-tight",
-                            children: ["CBN x ", (0, s.jsx)("br", {}), " VIGNAN"]
+                            children: ["Made for", (0, s.jsx)("br", {}), " VIGNAN"]
                         }), (0, s.jsxs)("h1", {
                             className: "text-[16px] md:text-[18px] lg:text-[20px] font-Montserrat",
                             children: ["V-LaunchPad 2025 @ VIGNAN", (0, s.jsx)("sup", {
