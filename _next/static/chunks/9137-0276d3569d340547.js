@@ -221,7 +221,7 @@
                         }), (0, s.jsxs)("div", {
                             className: "text-b;ack font-Montserrat font-[300] mt-3",
                             children: [(0, s.jsx)("h1", {
-                                children: "Near VSEZ - 522241,"
+                                children: "Near VSEZ - 530046,"
                             }), (0, s.jsx)("h1", {
                                 children: "Andhra Pradesh."
                             })]
