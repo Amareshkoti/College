@@ -178,7 +178,7 @@
                             children: "“The difference between dreamers and innovators is that a dreamer just dreams and does nothing to realize it, while an innovator charts his own path and breathes life into his ideas ”"
                         }), (0, a.jsx)("h1", {
                             className: "justify-end flex text-[3.5vw] sm:text-[20px]  font-Montserrat font-[290] leading-5",
-                            children: "- Dr. G. Viswanathan, Founder & Chancellor, VIT"
+                            children: "- Dr. Lavu Rathaiah ,Founder & Chancellor, VIIT"
                         })]
                     })
                 })
