@@ -2340,7 +2340,7 @@
                                 })
                             })
                         }), (0, s.jsx)("a", {
-                            href: "https://www.instagram.com/vitap.university/?hl=en",
+                            href: "https://www.instagram.com/vignan_viit_vizag?utm_source=ig_web_button_share_sheet&igsh=MWI4dWZlYjB5Yzh0Yw==",
                             target: "_blank",
                             className: "absolute inset-0 flex items-center justify-center z-20 transition-opacity duration-300 ".concat(i ? "opacity-100" : "opacity-0"),
                             children: (0, s.jsxs)("div", {
@@ -2547,7 +2547,7 @@
                         size: 30,
                         color: "white"
                     }),
-                    link: "https://www.instagram.com/vitap.university/",
+                    link: "https://www.instagram.com/vignan_viit_vizag?utm_source=ig_web_button_share_sheet&igsh=MWI4dWZlYjB5Yzh0Yw==/",
                     text: "Follow us on Instagram"
                 }],
                 E = e => {
@@ -2576,7 +2576,7 @@
                                 })
                             })
                         }), (0, s.jsx)("a", {
-                            href: "https://www.instagram.com/vitap.university/?hl=en",
+                            href: "https://www.instagram.com/vignan_viit_vizag?utm_source=ig_web_button_share_sheet&igsh=MWI4dWZlYjB5Yzh0Yw==/",
                             target: "_blank",
                             className: "absolute inset-0 flex items-center justify-center z-20 transition-opacity duration-300 ".concat(l ? "opacity-100" : "opacity-0"),
                             children: (0, s.jsxs)("div", {

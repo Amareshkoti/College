@@ -318,7 +318,7 @@
                             children: (0, s.jsxs)("div", {
                                 className: "flex  w-full h-[20px] justify-center items-center space-x-6  flex-wrap",
                                 children: [(0, s.jsx)("a", {
-                                    href: "https://www.instagram.com/vitap.university/",
+                                    href: "https://www.instagram.com/vignan_viit_vizag?utm_source=ig_web_button_share_sheet&igsh=MWI4dWZlYjB5Yzh0Yw==",
                                     target: "_blank",
                                     children: (0, s.jsx)(n.E08, {
                                         className: "hover:scale-125 transition-all duration-300 hover:shadow-2xl cursor-pointer",
@@ -387,7 +387,7 @@
                                 children: [(0, s.jsx)("div", {
                                     className: "bg-[#DCCED0] hover:scale-105 w-10 h-10 flex items-center justify-center rounded-sm",
                                     children: (0, s.jsx)("a", {
-                                        href: "https://www.instagram.com/vitap.university/",
+                                        href: "https://www.instagram.com/vignan_viit_vizag?utm_source=ig_web_button_share_sheet&igsh=MWI4dWZlYjB5Yzh0Yw==/",
                                         target: "_blank",
                                         children: (0, s.jsx)(n.E08, {
                                             size: 30,
