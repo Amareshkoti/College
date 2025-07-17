@@ -44,7 +44,7 @@
                 }]
             }, {
                 id: 2,
-                title: "VIT Connect",
+                title: "VIGNAN Connect",
                 menu: [{
                     id: 1,
                     title: "V-TOP Login",
