@@ -1,0 +1,16 @@
+.slide-track {
+    animation: scroll 40s linear infinite
+}
+
+.slide-track:hover {
+    animation-play-state: paused
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0)
+    }
+    to {
+        transform: translateX(calc(300px * 9))
+    }
+}

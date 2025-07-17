@@ -1,0 +1,411 @@
+.hero_hero__YNnGL {
+    background-position: 50%
+}
+
+.hero_hero__YNnGL,
+.hero_mhero__bi9tm {
+    background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(/AVIF_Images/Banners/ACADEMICS/ACADEMIC\ CALENDAR.avif);
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+.navbar.active {
+    background-color: #fff;
+    color: #650010
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, .4)
+}
+
+.normalnavbar {
+    background-color: #fff;
+    color: #650010
+}
+
+.logo {
+    width: 190px
+}
+
+.custom-underline {
+    position: relative;
+    text-decoration: none;
+    padding-bottom: 8px
+}
+
+.custom-underline:before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 6px;
+    background-color: #650010;
+    transition: width .5s ease
+}
+
+.custom-underline:hover:before {
+    width: 100%
+}
+
+.hideMenuNav {
+    display: none
+}
+
+.showMenuNav {
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: #fff;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center
+}
+
+.active-nav-item .custom-underline:before,
+.custom-underline:hover:before,
+.underline-active:before {
+    width: 100%
+}
+
+.custom-list-item {
+    position: relative;
+    text-decoration: none;
+    padding-bottom: 2px
+}
+
+.custom-list-item:before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 6px;
+    background-color: #650010;
+    transition: width .5s ease
+}
+
+.custom-list-item.active:before,
+.custom-list-item:hover:before {
+    width: 100%
+}
+
+.campuses {
+    background-color: green
+}
+
+.logo {
+    content: url(/_next/static/media/vitaplogo.ea4ac8df.png)
+}
+
+.logo.active {
+    content: url(/_next/static/media/vitaplogored.b14c9929.png);
+    width: 190px
+}
+
+.Banner_hero__b7EAi,
+.Banner_mhero__LGs2C {
+    background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(/AVIF_Images/Application_Process/application_process.avif);
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+.hero_hero__94J9W,
+.hero_mhero__NJ55l {
+    background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(/AVIF_Images/Banners/COMMITTE/UDC.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%
+}
+
+.description_desc1__cNQTy {
+    background-size: 500px 280px;
+    background-repeat: no-repeat
+}
+
+.description_desc11__GFgSF {
+    background-size: 300px 150px;
+    background-repeat: no-repeat
+}
+
+.description_desc2__Bt5lZ {
+    background-size: 500px 280px;
+    background-repeat: no-repeat
+}
+
+.description_desc22__1vI6m {
+    background-size: 300px 150px;
+    background-repeat: no-repeat
+}
+
+.description_desc3__kstAT {
+    background-size: 500px 280px;
+    background-repeat: no-repeat
+}
+
+.description_desc33__QctFc {
+    background-size: 300px 150px;
+    background-repeat: no-repeat
+}
+
+.description_desc4__Qerwj {
+    background-size: 500px 280px;
+    background-repeat: no-repeat
+}
+
+.description_desc44__mGpX_ {
+    background-size: 300px 150px;
+    background-repeat: no-repeat
+}
+
+.description_mdesc1__NNQa7 {
+    background-size: 260px 146px;
+    background-repeat: no-repeat
+}
+
+.description_mdesc11__aGWkO {
+    background-size: 156px 78px;
+    background-repeat: no-repeat
+}
+
+.description_mdesc2__x1xPP {
+    background-size: 260px 146px;
+    background-repeat: no-repeat
+}
+
+.description_mdesc22__M4voi {
+    background-size: 156px 78px;
+    background-repeat: no-repeat
+}
+
+.description_mdesc3__K5W4K {
+    background-size: 260px 146px;
+    background-repeat: no-repeat
+}
+
+.description_mdesc33__jZ98I {
+    background-size: 156px 78px;
+    background-repeat: no-repeat
+}
+
+.description_mdesc4__EeUin {
+    background-size: 260px 146px;
+    background-repeat: no-repeat
+}
+
+.description_mdesc44__u31NY {
+    background-size: 156px 78px;
+    background-repeat: no-repeat
+}
+
+.hero_welcome__6ayJC {
+    background-size: auto auto;
+    background-repeat: no-repeat
+}
+
+.hero_vlogo__S3ZtV {
+    background-size: 560px 300px;
+    background-repeat: no-repeat
+}
+
+.hero_mwelcome__QBv9a {
+    background-size: auto 144px;
+    background-repeat: no-repeat
+}
+
+.hero_mvlogo__6zsLh {
+    background-size: 200px 107px;
+    background-repeat: no-repeat
+}
+
+.property_desc5___O1aB {
+    background-size: 500px 281px
+}
+
+.property_desc55__50a_C {
+    background-size: 300px 150px
+}
+
+.property_mdesc5__hgf0C {
+    background-size: 260px 146px
+}
+
+.property_mdesc55__7ymgV {
+    background-size: 156px 78px
+}
+
+.team_empty__yWxb8 {
+    border-color: #650010 transparent transparent;
+    border-width: 100px 100px 0 0
+}
+
+.hero_hero__sUDsG {
+    background-image: url(/AVIF_Images/Banners/Hostel.avif);
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat
+}
+
+.hero_about__wIU9l {
+    display: block;
+    position: relative;
+    height: 40px;
+    width: 100%;
+    background: #391b70;
+    transform: scale(1)
+}
+
+.hero_about__wIU9l:before {
+    background-color: #fff;
+    right: -25%;
+    top: 20px
+}
+
+.hero_about__wIU9l:after,
+.hero_about__wIU9l:before {
+    content: "";
+    display: block;
+    position: absolute;
+    border-radius: 100%;
+    width: 100%;
+    height: 300px
+}
+
+.hero_about__wIU9l:after {
+    background-color: #391b70;
+    left: -25%;
+    top: -240px;
+    clip-path: ellipse(100% 15% at -15% 100%)
+}
+
+.hero_mhero__Fm2X4 {
+    background-image: url(/AVIF_Images/Banners/Hostel.avif);
+    background-size: auto 182px
+}
+
+.facility_img1__xNuSR {
+    background-image: url(/_next/static/media/facility1.937ca361.png);
+    background-size: 440px 570px;
+    background-repeat: no-repeat
+}
+
+.facility_img2__a9X0u {
+    background-image: url(/_next/static/media/facility2.dbf099be.png);
+    background-size: 260px 260px;
+    background-repeat: no-repeat
+}
+
+.facility_mimg1__b_4jJ {
+    background-image: url(/_next/static/media/facility1.937ca361.png);
+    background-size: 263px 340px;
+    background-repeat: no-repeat
+}
+
+.facility_mimg2__OMlg6 {
+    background-image: url(/_next/static/media/facility2.dbf099be.png);
+    background-size: 155px 155px;
+    background-repeat: no-repeat
+}
+
+.Banner_hero__j2DWX {
+    background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(/_next/static/media/VTBIFBanner.5ab175af.png)
+}
+
+.Banner_hero__j2DWX,
+.Banner_mhero__uOnY8 {
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+.Banner_mhero__uOnY8 {
+    background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(/vitap-webapp-frontend/public/AVIF_Images/banner.avif)
+}
+
+.Banner_hero__jbcKc,
+.Banner_mhero__YMeyM {
+    background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(/vitap-webapp-frontend/public/AVIF_Images/banner.avif);
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+@media screen and (max-width:720px) {
+    .News_container__gebt7 {
+        background-color: #fff;
+        width: screen
+    }
+    .News_head__9Wy_Y {
+        left: 0
+    }
+    .News_heading__a8APG {
+        font-size: 48px;
+        left: 5px
+    }
+    .News_card1__JX3am {
+        width: 520px;
+        height: 900px;
+        position: absolute;
+        background-color: #e6cfcf;
+        left: -155px
+    }
+    .News_card2__K_LiQ {
+        left: 50px
+    }
+    .News_card2__K_LiQ,
+    .News_card3__fouxX {
+        width: 550px;
+        height: 900px;
+        position: absolute;
+        background-color: #e6cfcf;
+        opacity: 0
+    }
+    .News_card3__fouxX {
+        left: 70px
+    }
+    .News_img1__4IDk4,
+    .News_img2__fF4XL,
+    .News_img3__3yCiq {
+        width: 550px;
+        height: 400px
+    }
+    .News_info__KM_RX {
+        font-size: 35px;
+        color: #650010
+    }
+    .News_date__38xst {
+        font-size: 30px
+    }
+    .News_circle__yGYvE {
+        height: 70px;
+        width: 70px
+    }
+    .News_arrow__LkyK3 {
+        width: 40px;
+        margin-top: 20px;
+        margin-left: 15px
+    }
+    .News_explore___zTPP {
+        font-size: 30px;
+        margin-top: 10px
+    }
+    .News_button__3bqVR {
+        margin-top: 140px
+    }
+    .News_b1__FtM2e {
+        display: block;
+        margin-left: 25px
+    }
+    .News_b2__LKAba {
+        display: block;
+        margin-left: 640px;
+        position: absolute;
+        margin-top: -60px
+    }
+    .News_red__JUvLM {
+        opacity: 0
+    }
+}
