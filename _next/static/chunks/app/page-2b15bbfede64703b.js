@@ -70,7 +70,7 @@
                                         className: "w-full sm:h-[330px] md:h-[400px] lg:h-[350px] xl:h-[350px]  h-[240px] shadow-xl rounded-[3px]  mt-5",
                                         children: (0, s.jsx)("iframe", {
                                             className: "w-full h-full rounded-[3px] ",
-                                            src: "https://www.youtube.com/embed/qRJBQ9nKQG4?si=XRAUCNvFD2yv_wOW",
+                                            src: "https://www.youtube.com/embed/DqCDVElxaL8",
                                             title: "About VIGNAN ",
                                             frameBorder: "1",
                                             allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-inpicture; web-share",
