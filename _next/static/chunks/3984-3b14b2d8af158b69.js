@@ -1477,7 +1477,7 @@
                                 children: (0, l.jsx)("a", {
                                     href: "/advantages",
                                     target: "_blank",
-                                    children: "VIT-AP Advantages"
+                                    children: "VIGNAN ADVANTAGES"
                                 })
                             }), (0, l.jsx)("li", {
                                 onClick: () => Ah(),
@@ -1572,7 +1572,7 @@
                                     className: "font-Montserrat text-[16px]",
                                     children: (0, l.jsx)("a", {
                                         href: "/advantages",
-                                        children: "VIT-AP Advantages"
+                                        children: "VIGNAN ADVANTAGES"
                                     })
                                 }), (0, l.jsx)(n.JPM, {
                                     size: 30
