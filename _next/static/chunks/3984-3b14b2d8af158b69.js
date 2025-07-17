@@ -1422,37 +1422,37 @@
                                     children: [(0, l.jsx)("li", {
                                         className: "ml-[10px]",
                                         children: (0, l.jsx)("a", {
-                                            href: "https://vit.ac.in/",
+                                            href: "https://vignaniit.edu.in/",
                                             target: "_blank",
-                                            children: "VELLORE"
+                                            children: "DUVVADA"
                                         })
                                     }), (0, l.jsx)("li", {
                                         className: "ml-[10px]",
                                         children: (0, l.jsx)("a", {
-                                            href: "https://chennai.vit.ac.in/",
+                                            href: "https://vignaniit.edu.in/",
                                             target: "_blank",
-                                            children: "CHENNAI"
+                                            children: "DUVVADA"
                                         })
                                     }), (0, l.jsx)("li", {
                                         className: "ml-[10px]",
                                         children: (0, l.jsx)("a", {
-                                            href: "https://vitbhopal.ac.in/",
+                                            href: "https://vignaniit.edu.in/",
                                             target: "_blank",
-                                            children: "BHOPAL"
+                                            children: "DUVVADA"
                                         })
                                     }), (0, l.jsx)("li", {
                                         className: "ml-[10px]",
                                         children: (0, l.jsx)("a", {
-                                            href: "https://vitbangalore.in/",
+                                            href: "https://vignaniit.edu.in/",
                                             target: "_blank",
-                                            children: "BANGLORE"
+                                            children: "DUVVADA"
                                         })
                                     }), (0, l.jsx)("li", {
                                         className: "ml-[10px]",
                                         children: (0, l.jsx)("a", {
-                                            href: "https://www.vitmauritius.mu/",
+                                            href: "https://vignaniit.edu.in/",
                                             target: "_blank",
-                                            children: "MAURITIUS"
+                                            children: "DUVVADA"
                                         })
                                     })]
                                 })]
@@ -1595,37 +1595,37 @@
                                     }), (0, l.jsx)("h1", {
                                         className: "text-[16px] font-[300] ml-5 mt-2",
                                         children: (0, l.jsx)("a", {
-                                            href: "https://vit.ac.in/",
+                                            href: "https://vignaniit.edu.in/",
                                             target: "_blank",
-                                            children: "Vellore"
+                                            children: "DUVVADA"
                                         })
                                     }), (0, l.jsx)("h1", {
                                         className: "text-[16px] font-[300] ml-5 mt-2",
                                         children: (0, l.jsx)("a", {
-                                            href: "https://chennai.vit.ac.in/",
+                                            href: "https://vignaniit.edu.in/",
                                             target: "_blank",
-                                            children: "Chennai"
+                                            children: "DUVVADA"
                                         })
                                     }), (0, l.jsx)("h1", {
                                         className: "text-[16px] font-[300] ml-5 mt-2",
                                         children: (0, l.jsx)("a", {
-                                            href: "https://vitbhopal.ac.in/",
+                                            href: "https://vignaniit.edu.in/",
                                             target: "_blank",
-                                            children: "Bhopal"
+                                            children: "DUVVADA"
                                         })
                                     }), (0, l.jsx)("h1", {
                                         className: "text-[16px] font-[300] ml-5 mt-2",
                                         children: (0, l.jsx)("a", {
-                                            href: "https://www.vitbangalore.in/",
+                                            href: "https://vignaniit.edu.in/",
                                             target: "_blank",
-                                            children: "Banglore"
+                                            children: "DUVVADA"
                                         })
                                     }), (0, l.jsx)("h1", {
                                         className: "text-[16px] font-[300] ml-5 mt-2",
                                         children: (0, l.jsx)("a", {
-                                            href: "https://www.vitmauritius.mu/",
+                                            href: "https://vignaniit.edu.in/",
                                             target: "_blank",
-                                            children: "Mauritius"
+                                            children: "DUVVADA"
                                         })
                                     })]
                                 })]
