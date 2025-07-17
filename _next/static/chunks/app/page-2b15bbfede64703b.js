@@ -2515,7 +2515,7 @@
                         size: 30,
                         color: "white"
                     }),
-                    link: "https://www.youtube.com/@VITAP",
+                    link: "https://www.youtube.com/@VignanVizagStudio",
                     text: "Watch us on Youtube"
                 }, {
                     id: 4,
@@ -2523,7 +2523,7 @@
                         size: 30,
                         color: "white"
                     }),
-                    link: "https://www.facebook.com/vitap.university/",
+                    link: "https://www.facebook.com/VignansInstituteofInformationTechnologyVIIT/",
                     text: "Like us on Facebook"
                 }, {
                     id: 3,
@@ -2531,7 +2531,7 @@
                         size: 30,
                         color: "white"
                     }),
-                    link: "https://www.linkedin.com/school/vitap-university/mycompany/verification/",
+                    link: "https://www.linkedin.com/company/viitvizag/ ",
                     text: "Grow with us on LinkedIn"
                 }, {
                     id: 2,
@@ -2539,7 +2539,7 @@
                         size: 30,
                         color: "white"
                     }),
-                    link: "https://twitter.com/VITAPuniversity",
+                    link: "https://x.com/vignaniit",
                     text: "Tweet with us on X"
                 }, {
                     id: 1,
